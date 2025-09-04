@@ -27,26 +27,23 @@ Built with:
 ```bash
 1. Clone the repo
 
-git clone https://github.com/your-username/your-repo-name.git
-cd MCP
-
 2. Install backend dependencies
 
-cd mcp-server
-npm install
+  cd mcp-server
+  npm install
 
-Create a .env file with your email credentials and Groq API key:
-
-EMAIL_USER=your@email.com
-EMAIL_PASS=yourpassword
-GROQ_API_KEY=your_groq_api_key
-
-Start the backend:
-
-npm start
+  Create a .env file with your email credentials and Groq API key:
+  
+  EMAIL_USER=your@email.com
+  EMAIL_PASS=yourpassword
+  GROQ_API_KEY=your_groq_api_key
+  
+  Start the backend:
+  
+  npm start
 
 3. Install frontend dependencies
 
-cd ../mcp-frontend
-npm install
-npm run dev
+  cd ../mcp-frontend
+  npm install
+  npm run dev
