@@ -21,25 +21,12 @@ Built with:
 
 ---
 
-## 📁 Folder Structure
-MCP/
-├── mcp-server/ # Express backend
-│ ├── routes/
-│ └── resume/
-├── mcp-frontend/ # Next.js frontend
-│ └── pages/
-│ ├── index.js
-│ ├── _app.js
-│ └── api/
-└── README.md
-
-
 
 ## 🛠️ Getting Started
 
-### 1. Clone the repo
-
 ```bash
+1. Clone the repo
+
 git clone https://github.com/your-username/your-repo-name.git
 cd MCP
 
