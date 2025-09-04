@@ -44,6 +44,6 @@ Built with:
 
 3. Install frontend dependencies
 
-  cd ../mcp-frontend
+  cd mcp-frontend
   npm install
   npm run dev
