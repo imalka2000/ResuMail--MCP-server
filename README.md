@@ -47,3 +47,7 @@ Built with:
   cd mcp-frontend
   npm install
   npm run dev
+
+<img width="1553" height="995" alt="Screenshot 2025-09-04 at 08-04-12 " src="https://github.com/user-attachments/assets/2f824f64-4049-41e6-8989-2423d226e8cc" />
+<img width="1161" height="863" alt="Screenshot 2025-09-04 at 08-03-10 " src="https://github.com/user-attachments/assets/923c5702-77cb-405e-acf3-f81b8e142811" />
+
