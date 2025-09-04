@@ -22,4 +22,44 @@ Built with:
 ---
 
 ## 📁 Folder Structure
+MCP/
+├── mcp-server/ # Express backend
+│ ├── routes/
+│ └── resume/
+├── mcp-frontend/ # Next.js frontend
+│ └── pages/
+│ ├── index.js
+│ ├── _app.js
+│ └── api/
+└── README.md
 
+
+
+## 🛠️ Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd MCP
+
+2. Install backend dependencies
+
+cd mcp-server
+npm install
+
+Create a .env file with your email credentials and Groq API key:
+
+EMAIL_USER=your@email.com
+EMAIL_PASS=yourpassword
+GROQ_API_KEY=your_groq_api_key
+
+Start the backend:
+
+npm start
+
+3. Install frontend dependencies
+
+cd ../mcp-frontend
+npm install
+npm run dev
