@@ -1,0 +1,22 @@
+name: Jane Doe
+email: jane.doe@example.com
+roles:
+  - title: Senior Software Engineer
+    company: Acme Corp
+    start: Jan 2020
+    end: Present
+    description: Worked on AI integrations and led backend team.
+  - title: Software Engineer
+    company: BetaSoft
+    start: Jan 2017
+    end: Dec 2019
+    description: Full-stack developer for client web apps.
+education:
+  - degree: B.Sc. in Computer Science
+    institution: State University
+    year: 2016
+skills:
+  - JavaScript
+  - Python
+  - Node.js
+  - AI/ML
