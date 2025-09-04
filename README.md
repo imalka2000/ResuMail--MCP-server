@@ -50,7 +50,7 @@ Built with:
 ```
 
 ## Images
-![Screenshot](https://github.com/user-attachments/assets/923c5702-77cb-405e-acf3-f81b8e142811 =600x400)
+<img width="1553" height="995" alt="Screenshot 2025-09-04 at 08-04-12 " src="https://github.com/user-attachments/assets/923c5702-77cb-405e-acf3-f81b8e142811" />
 <img width="1553" height="995" alt="Screenshot 2025-09-04 at 08-04-12 " src="https://github.com/user-attachments/assets/2f824f64-4049-41e6-8989-2423d226e8cc" />
 
 Email
